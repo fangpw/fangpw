@@ -1,0 +1,23 @@
+{
+  "name": "fangpw",
+  "version": "1.0.0",
+  "description": "这是我的测试",
+  "main": "index.js",
+  "scripts": {
+  	"build": "echo \"Error: no test specified\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangpw/fangpw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangpw/fangpw/issues"
+  },
+  "homepage": "https://github.com/fangpw/fangpw#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
